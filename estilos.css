@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color: beige;
+    padding-top: 40px;
+}
+img{
+    width: 50%;
+    height: 50%;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+.images{
+    text-align: center;
+}
